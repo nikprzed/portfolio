@@ -28,7 +28,7 @@ While my experience is limited, I bring a set of transferable skills to the worl
 
 ## My bug reports
 
-##Project management
+## Project management
 
 *[Trello](https://trello.com/b/5gfAvqac/abckosmetycznepl)
 
