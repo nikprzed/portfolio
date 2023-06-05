@@ -30,5 +30,5 @@ While my experience is limited, I bring a set of transferable skills to the worl
 
 ## Project management
 
-*[Trello](https://trello.com/b/5gfAvqac/abckosmetycznepl)
+* [Trello](https://trello.com/b/5gfAvqac/abckosmetycznepl)
 
